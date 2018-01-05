@@ -1,0 +1,2 @@
+# Auto_Check_network_equiments
+通过Python脚本，自动巡检网络设备，并将巡检结果输出到附件，邮件发送。使用的是Python的telnetlib模块
