@@ -1,7 +1,6 @@
 #-*-coding:utf-8-*-
 '''
 程序名:AutoCheck_Net_ssh.py
-邮箱:emhhbmdydWlAeHouY2hpbmFtb2JpbGUuY29t
 自动巡检网络设备脚本
 更新:2018.10.11
     *增加ssh登陆功能
